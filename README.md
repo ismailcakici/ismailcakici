@@ -55,3 +55,11 @@
 </div>
 
 ###
+
+<h3 align="left">🔥 My Stats</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ismailcakici&locale=en&mode=daily&theme=nightowl&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
