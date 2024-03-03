@@ -1,10 +1,5 @@
 <div align="center">
   <img height = "auto" src="https://media1.tenor.com/m/HWBLKl9prIUAAAAd/lauda.gif"/>
-  <!-- 
-  <img height="auto" src="https://media1.tenor.com/m/oC_e7R9GvZ8AAAAC/rick-and-morty-rtj.gif" />
-  <img height="auto" src="https://media1.tenor.com/m/X3jJ_r78JlcAAAAC/bobs-burger-tina-belcher.gif" />
-  <img height="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-  -->
 </div>
 
 ###
@@ -37,6 +32,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="next logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
@@ -52,6 +51,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+
 </div>
 
 ###
