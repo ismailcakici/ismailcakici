@@ -1,5 +1,4 @@
 <div align="center">
-  <img height = "auto" src="https://media1.tenor.com/m/HWBLKl9prIUAAAAd/lauda.gif"/>
 </div>
 
 ###
